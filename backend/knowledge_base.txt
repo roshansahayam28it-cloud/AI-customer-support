@@ -1,0 +1,86 @@
+Q: What does LICET stand for?
+A: LICET stands for Loyola-ICAM College of Engineering and Technology.
+
+Q: Where is LICET located?
+A: LICET is located in Chennai, Tamil Nadu.
+
+Q: What is LICET?
+A: LICET is Loyola-ICAM College of Engineering and Technology, an engineering college in Chennai.
+
+Q: Who collaborates with LICET?
+A: LICET is an academic collaboration between Loyola College Society and ICAM France.
+
+Q: What pedagogy does LICET follow?
+A: LICET follows Jesuit pedagogy.
+
+Q: What does LICET focus on?
+A: LICET focuses on academic excellence, professionalism, social responsibility, and global exposure.
+
+Q: What is the vision of LICET?
+A: The vision of LICET is to form responsible engineers who would engineer a just society.
+
+Q: What is the quality policy of LICET?
+A: LICET aims to form engineers who are creative, competent, committed, compassionate, and socially responsible.
+
+Q: What facilities are available in the Information Technology department?
+A: The Information Technology department has experienced faculty members and modern laboratory facilities.
+
+Q: What courses and training are offered by the IT department?
+A: The department provides training in Cloud Computing, Cyber Security, Big Data Analytics, Artificial Intelligence, Internet of Things, Mobile Computing, Image Processing, Data Mining, Network Security, and Ethical Hacking.
+
+Q: Does the IT department provide Artificial Intelligence training?
+A: Yes, the department provides Artificial Intelligence training.
+
+Q: Does the IT department provide Cyber Security training?
+A: Yes, the department provides Cyber Security training.
+
+Q: Does the IT department provide Cloud Computing training?
+A: Yes, the department provides Cloud Computing training.
+
+Q: Does the IT department provide Internet of Things training?
+A: Yes, the department provides Internet of Things training.
+
+Q: What activities are organized by the IT department?
+A: The department organizes workshops, seminars, conferences, faculty development programs, and guest lectures.
+
+Q: Which organizations collaborate with the IT department?
+A: The department collaborates with Google, IIT, ICAM France, Capgemini, and Calibrant.
+
+Q: What student activities are available in the IT department?
+A: Students participate in Smart India Hackathon, national level projects, technical events, and research activities.
+
+Q: What projects are supported by the department?
+A: The department supports Spoken Tutorial Project, Virtual Labs, Red Hat certification, and Cloud Computing training.
+
+Q: What infrastructure facilities are available in the department?
+A: The department provides modern laboratories, internet facilities, project facilities, design tools, and smart classrooms.
+
+Q: What are the specialization areas of the faculty members?
+A: Faculty members specialize in Data Mining, Computer Networks, Cyber Security, Cloud Computing, Big Data Analytics, Internet of Things, Image Processing, and Ethical Hacking.
+
+Q: How are students prepared for placements?
+A: Students are trained through industry interaction, placement training, technical workshops, and soft skill development.
+
+Q: Does LICET provide international exposure?
+A: Yes, LICET provides international exposure through collaboration with ICAM France.
+
+Q: What values does LICET promote?
+A: LICET promotes innovation, research, entrepreneurship, and social responsibility.
+
+Q: Which departments are available in LICET?
+A: LICET offers Information Technology, Computer Science and Engineering, Electronics and Communication Engineering, Mechanical Engineering, Electrical and Electronics Engineering, and Artificial Intelligence and Data Science.
+
+Q: Does LICET have an Information Technology department?
+A: Yes, LICET has an Information Technology department.
+
+Q: Does LICET have a Computer Science and Engineering department?
+A: Yes, LICET has a Computer Science and Engineering department.
+
+Q: Does LICET have an Artificial Intelligence and Data Science department?
+A: Yes, LICET has an Artificial Intelligence and Data Science department.
+
+Q: What is Smart India Hackathon?
+A: Students of the IT department participate in Smart India Hackathon and other technical competitions.
+
+Q: What certifications are supported by the department?
+A: The department supports Red Hat certification and Cloud Computing training programs.
